@@ -3,7 +3,7 @@ inherit perl
 
 NAME="perl-XML-XPathEngine"
 VERSION=0.14
-RELEASE=1
+RELEASE=2
 CATEGORY="Perl"
 SUMMARY="Perl XML module XPath engine"
 DESCRIPTION="This module provides an XPath engine, that can be re-used by other
